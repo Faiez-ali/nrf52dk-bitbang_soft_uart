@@ -1,0 +1,12 @@
+description: Software UART using GPIOs
+
+compatible: "gpio-soft-uart"
+
+properties:
+  tx-gpios:
+    type: phandle-array
+    required: true
+
+  rx-gpios:
+    type: phandle-array
+    required: true
