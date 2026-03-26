@@ -1,4 +1,4 @@
-# Project Title
+# NRF52DK Bitbang Soft Uart Driver
 
 ## Project Overview
 This project is a software UART implementation for the nRF52 development kit. It allows for bit-banging UART communication on devices that do not have dedicated UART hardware.
